@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
   This module has the following purposes:
-    1. creates API with 1 endpoint using Flask framework;
-    2. Implements POST method only application/json content type;
-    3. Takes a sentence as input and returns a random 500 dimensional array of floats.
+    1. Creates API with 1 endpoint using Flask framework;
+    2. Implements POST method only for application/json content type;
+    3. Takes a sentence as input and returns a random 500-dimensional array of floats.
 
 Usage example:
     ❯ source env/bin/activate
